@@ -2,7 +2,11 @@
   "cart": {
     "checkout-button": "Proceed to Checkout",
     "empty-state": "Your cart is empty.",
-    "title": "Your Cart"
+    "title": "Your Cart",
+    "discount": {
+      "label": "Discount Code",
+      "placeholder": "Enter discount code"
+    }
   },
   "product": {
     "price": {
@@ -21,6 +25,13 @@
   "checkout": {
     "billing-information": "Billing Information",
     "payment-method": "Payment Method",
-    "complete-button": "Complete Purchase"
+    "complete-button": "Complete Purchase",
+    "order-summary": "Order Summary",
+    "place-order-button": "Place Order",
+    "shipping-information": "Shipping Information"
+  },
+  "notification": {
+    "order-placed": "Your order has been placed successfully.",
+    "order-failed": "Failed to place your order. Please try again."
   }
 }

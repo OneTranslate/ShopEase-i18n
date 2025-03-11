@@ -7,7 +7,11 @@
   "cart": {
     "checkout-button": "Gehen Sie zur Kasse",
     "title": "Dein Einkaufswagen",
-    "empty-state": "Ihr Einkaufswagen ist leer."
+    "empty-state": "Ihr Einkaufswagen ist leer.",
+    "discount": {
+      "label": "Rabattcode",
+      "placeholder": "Rabattcode eingeben"
+    }
   },
   "product": {
     "price": {
@@ -21,6 +25,13 @@
   "checkout": {
     "billing-information": "Informationen zur Abrechnung",
     "payment-method": "Methode der Zahlung",
-    "complete-button": "Kauf abschließen"
+    "complete-button": "Kauf abschließen",
+    "shipping-information": "Infos zum Versand",
+    "order-summary": "Bestellübersicht",
+    "place-order-button": "Bestellung aufgeben"
+  },
+  "notification": {
+    "order-placed": "Ihre Bestellung wurde erfolgreich aufgegeben.",
+    "order-failed": "Ihre Bestellung konnte nicht aufgegeben werden. Bitte versuchen Sie es erneut."
   }
 }

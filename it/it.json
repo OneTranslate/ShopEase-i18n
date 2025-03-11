@@ -2,7 +2,11 @@
   "cart": {
     "checkout-button": "Procedi al checkout",
     "empty-state": "Il tuo carrello è vuoto.",
-    "title": "Il tuo carrello"
+    "title": "Il tuo carrello",
+    "discount": {
+      "label": "Codice sconto",
+      "placeholder": "Inserisci il codice sconto"
+    }
   },
   "product": {
     "price": {
@@ -21,6 +25,13 @@
   "checkout": {
     "billing-information": "Informazioni di fatturazione",
     "payment-method": "Metodo di pagamento",
-    "complete-button": "Acquisto completo"
+    "complete-button": "Acquisto completo",
+    "order-summary": "Riepilogo dell'ordine",
+    "place-order-button": "Effettua l'ordine",
+    "shipping-information": "Informazioni sulla spedizione"
+  },
+  "notification": {
+    "order-placed": "Il tuo ordine è stato effettuato con successo.",
+    "order-failed": "Non è stato possibile effettuare l'ordine. Per favore riprova."
   }
 }
