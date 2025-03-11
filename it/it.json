@@ -1,0 +1,26 @@
+{
+  "cart": {
+    "checkout-button": "Procedi al checkout",
+    "empty-state": "Il tuo carrello è vuoto.",
+    "title": "Il tuo carrello"
+  },
+  "product": {
+    "price": {
+      "label": "Prezzo"
+    },
+    "quantity": {
+      "label": "Quantità"
+    },
+    "add-to-cart-button": "Aggiungi al carrello"
+  },
+  "home": {
+    "title": "Casa",
+    "welcome-message": "Benvenuto su ShopEase, {{name}}!",
+    "featured-products": "Prodotti in vetrina"
+  },
+  "checkout": {
+    "billing-information": "Informazioni di fatturazione",
+    "payment-method": "Metodo di pagamento",
+    "complete-button": "Acquisto completo"
+  }
+}

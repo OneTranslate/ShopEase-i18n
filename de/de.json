@@ -1,0 +1,26 @@
+{
+  "home": {
+    "title": "Zuhause",
+    "featured-products": "Ausgewählte Produkte",
+    "welcome-message": "Willkommen bei ShopEase, {{name}}!"
+  },
+  "cart": {
+    "checkout-button": "Gehen Sie zur Kasse",
+    "title": "Dein Einkaufswagen",
+    "empty-state": "Ihr Einkaufswagen ist leer."
+  },
+  "product": {
+    "price": {
+      "label": "Preis"
+    },
+    "quantity": {
+      "label": "Menge"
+    },
+    "add-to-cart-button": "Zum Einkaufswagen hinzufügen"
+  },
+  "checkout": {
+    "billing-information": "Informationen zur Abrechnung",
+    "payment-method": "Methode der Zahlung",
+    "complete-button": "Kauf abschließen"
+  }
+}

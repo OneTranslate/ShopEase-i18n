@@ -1,0 +1,26 @@
+{
+  "cart": {
+    "checkout-button": "Proceed to Checkout",
+    "empty-state": "Your cart is empty.",
+    "title": "Your Cart"
+  },
+  "product": {
+    "price": {
+      "label": "Price"
+    },
+    "quantity": {
+      "label": "Quantity"
+    },
+    "add-to-cart-button": "Add to Cart"
+  },
+  "home": {
+    "title": "Home",
+    "welcome-message": "Welcome to ShopEase, {{name}}!",
+    "featured-products": "Featured Products"
+  },
+  "checkout": {
+    "billing-information": "Billing Information",
+    "payment-method": "Payment Method",
+    "complete-button": "Complete Purchase"
+  }
+}
